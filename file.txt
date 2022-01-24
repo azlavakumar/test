@@ -1,4 +1,8 @@
 this is test file 
 added new comments
 added to git hub
+<<<<<<< HEAD
 feature branch added and added an update
+=======
+cheout to main and updated
+>>>>>>> main
